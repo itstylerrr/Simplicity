@@ -1,0 +1,11 @@
+{
+	"name": "simplicity",
+	"version": "1.0.0",
+	"main": "src/index.js",
+	"author": "Tyler Witkowski",
+	"license": "ISC",
+	"description": "",
+	"dependencies": {
+		"discord.js": "^13.0.1"
+	}
+}
