@@ -6,7 +6,5 @@ description: >-
 
 # Tyler's Development Docs
 
-
-
-
+![](.gitbook/assets/simplicity-logo-black-bgrnd.png)
 
